@@ -1,5 +1,6 @@
 {
     "name": "Node Starter",
     "httpport": 4000,
-    "httpsport": 5000
+    "httpsport": 5000,
+    "whitelistdomains": []
 }
